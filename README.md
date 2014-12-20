@@ -1,4 +1,4 @@
-The Data science specialization: Rprogramming course
+##The Data science specialization: Rprogramming course
 ======================================================
 
 Programming assigments of the Coursera Rprogramming course
